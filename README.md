@@ -5,7 +5,7 @@
 
 - 👨‍💻 My portfolio is available at [www.sanchitpandey.com.np](www.sanchitpandey.com.np)
 
-- 📫 How to reach me **sanchit2062@gmail.com**
+- 📫 How to reach me **admin@sanchitpandey.com.np**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
