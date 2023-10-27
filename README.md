@@ -3,7 +3,7 @@
 <h3 align="center">A skilled Web Developer, transforming designs into captivating web experiences.</h3>
 <img align="right" alt="Coder" width="400" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif">
 
-- 👨‍💻 My portfolio is available at [www.sanchitpandey.com.np](sanchitpandey.com.np)
+- 👨‍💻 My portfolio is available at [www.sanchitpandey.com.np](www.sanchitpandey.com.np)
 
 - 📫 How to reach me **admin@sanchitpandey.com.np**
 
