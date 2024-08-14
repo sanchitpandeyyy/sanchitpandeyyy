@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sanchit Pandey</h1>
-<h3 align="center">A skilled Web Developer, transforming designs into captivating web experiences.</h3>
+<h3 align="center">A skilled Front-End Developer, transforming designs into captivating web experiences.</h3>
 <img align="right" alt="Coder" width="400" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif">
 
 - 👨‍💻 My portfolio is available at <a target="_blank" href="https://www.sanchitpandey.com.np/">www.sanchitpandey.com.np</a>
