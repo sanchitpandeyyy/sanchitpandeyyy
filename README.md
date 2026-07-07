@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Sc. CSIT student at Butwal Multiple Campus <br>💻 Full-stack Web developer with 1.5+ years of experience and 2.5+ years in overall tech field<br>🚀 Passionate about emerging technologies and building impactful projects <br>🏆 Leading CSIT Association of BMC (CSITABMC) - a vibrant student tech community <br>🤝 Open to collaboration on open-source and innovative projects <br>✍️ Interested in hackathons, and community-driven innovation
+🎓 B.Sc. CSIT student at Butwal Multiple Campus <br>💻 Full-stack Web developer with 3+ years of experience<br>🚀 Passionate about emerging technologies and building impactful projects <br>🏆 Leading CSIT Association of BMC (CSITABMC) - a vibrant student tech community <br>🤝 Open to collaboration on open-source and innovative projects <br>✍️ Interested in hackathons, and community-driven innovation
 
 
 ## 🌐 Socials:
